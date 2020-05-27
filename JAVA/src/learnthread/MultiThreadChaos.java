@@ -10,5 +10,6 @@ public class MultiThreadChaos {
         System.out.println("执行开始");
         increase.start();
         decrease.start();
+        System.out.println("执行结束");
     }
 }
