@@ -18,7 +18,7 @@ public class FindABCTask extends TimerTask {
         }
 
         // TODO 如果抛出异常， Timer是不会帮助处理的，整个Timer就挂了
-        throw new RuntimeException("not handled exception");
+//        throw new RuntimeException("not handled exception");
     }
 
     private static String getWebContent() {
