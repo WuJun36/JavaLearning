@@ -7,6 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="bcprov-jdk15on-168" level="project" />
   </component>
 </module>
